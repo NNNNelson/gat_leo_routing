@@ -1,0 +1,36 @@
+kepler dqn 
+A total of 6103 data blocks were created
+A total of 6044 data blocks were transmitted
+A total of 59 data blocks were stuck
+
+q-learning
+ 
+A total of 6094 data blocks were created
+A total of 6015 data blocks were transmitted
+A total of 79 data blocks were stuck
+
+dijkstra 
+
+A total of 15959 data blocks were created
+A total of 15817 data blocks were transmitted
+A total of 142 data blocks were stuck
+
+oneweb
+
+kepler dqn 
+
+A total of 3539 data blocks were created
+A total of 3497 data blocks were transmitted
+A total of 42 data blocks were stuck
+
+q-learning
+A total of 3491 data blocks were created
+A total of 3457 data blocks were transmitted
+A total of 34 data blocks were stuck
+
+
+dijkstra 
+
+A total of 10730 data blocks were created
+A total of 10628 data blocks were transmitted
+A total of 102 data blocks were stuck
